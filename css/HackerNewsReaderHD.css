@@ -1,0 +1,29 @@
+/* Copyright 2011 Akanster. All rights reserved. */
+
+body {
+	background-color: #fff;
+}
+
+.hackernews-header {
+	background-color: #FF6600; 
+}
+
+.hackernews-toolbar {
+	background-color: #FF6600; 
+}
+
+.list-body {
+	background-color: #F6F6EF;
+}
+
+.news-title {
+	font-size: 20px;
+}
+
+.news-points {
+	font-size: 14px;
+}
+
+.enyo-button-depressed {
+
+}

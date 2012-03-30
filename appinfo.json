@@ -1,0 +1,10 @@
+{
+	"id": "com.akanster.hackernewsreader",
+	"version": "0.5.0",
+	"vendor": "Akanster",
+	"type": "web",
+	"main": "index.html",
+	"title": "Hacker News Reader HD",
+	"icon": "icon.png",
+	"uiRevision":2
+}
